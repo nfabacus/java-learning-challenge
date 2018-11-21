@@ -9,4 +9,4 @@ Initial challenge - go through a Udemy course on Java for around 15 minutes dail
 13th - 15th Nov, 2018 - Set up IDE Intellij. Start an Udemy course on Java. Start with hello world and data types and variables. Arithmetic operations. relational operators, etc.
 15th Nov, 2018 - if else, while loop, do while, for loop.  They are the same as javascript.
 17th Nov - switch, break and continue statement (same as javascript), adding methods with parameters and returning value.
-
+21st Nov - classes and instances
