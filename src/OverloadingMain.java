@@ -24,5 +24,14 @@ public class OverloadingMain {
         overloadingMain.add(2);
         overloadingMain.add(2,3);
         overloadingMain.add(2,3,5);
+
+        // Implicit Operator Overloading example below
+        // There is no explicit overloading in java.
+        // + operator behaves differently depending on the number and string adding.
+        System.out.println(10+20);
+        System.out.println(("Hello " + "Java"));
+        System.out.println(("Hello " + "Java " + 10 + 30));
+        System.out.println(("Hello " + "Java " + (10 + 30)));
+        System.out.println((10 + 30 + " Hello " + "Java"));
     }
 }

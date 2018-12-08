@@ -12,4 +12,5 @@ Initial challenge - go through a Udemy course on Java for around 15 minutes dail
 21st Nov - classes and instances
 Sat 24th Nov - new class instance, constructors, and inheritance.
 Mon 26th Nov - Polymorphism - Method overloading - compile time
-Sun 2nd Nov - Polymorphism - Constructor overloading - compile time
+Sun 2nd Dec - Polymorphism - Constructor overloading - compile time
+Sat, 8th Dec - Polymorphism(operator overloading), and Method Overriding
