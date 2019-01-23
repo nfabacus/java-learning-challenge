@@ -18,3 +18,4 @@ Wed, 12th Dec - Final keywords
 Sun, 16th Dec - Abstraction
 Sat, 22nd Dec - Encapsulation, user input
 Wed, 23rd January - Back again.  Review of the previous learning as it has been a while.
+Thurs, 24th January - Java arrays.
